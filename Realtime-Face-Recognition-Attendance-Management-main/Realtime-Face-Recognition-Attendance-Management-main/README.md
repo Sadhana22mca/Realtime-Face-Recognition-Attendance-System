@@ -1,1 +1,0 @@
-# Automatic-Facial-Recognition-Attendence-Management-System
